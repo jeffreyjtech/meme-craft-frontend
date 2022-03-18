@@ -4,6 +4,10 @@
 
 **Version**: 1.4.0
 
+[**Back-end Repo**](https://github.com/jeffreyjtech/meme-craft-backend)
+
+[**Documents Repo**](https://github.com/jeffreyjtech/meme-craft-documents)
+
 ## Overview
 
 A simple application that allows the user to create their own customized memes from any of 100 popular meme templates. The user can Create, Read, Update, and Delete a personal gallery of customized memes, share memes to several popular social media sites. This site leverages the ImgFlip Meme API and uses an Express backend with MongoDB to store user creations.
