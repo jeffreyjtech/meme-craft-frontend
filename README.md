@@ -1,6 +1,7 @@
 # MemeCraft
 
 **Authors**: Brady Camp, Harvey Francois, Jeffrey Jenkins, Micha Davis, Michael Campbell
+
 **Version**: 1.4.0
 
 ## Overview
